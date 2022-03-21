@@ -9,4 +9,4 @@ I like to work in a agile/scrum team, using A/B testing and data analysis to des
 
 ### My favourite stack
 
-`HTML5` | `CSS3` |  `Typescript` |  `ReactJS` |  `React Native` |  `Redux`  | `Redux-saga` |  `Styled-components` |  `Git` |  `Storybook`  | `Cypress`
+`HTML5` | `CSS3` |  `Typescript` |  `ReactJS` |  `React Native` |  `Redux`  | `Redux-saga` |  `Styled-components` |  `Git` |  `Storybook`  | `Cypress` | `NextJS` | `Heroku` | `Strapi` | `Postgres` |
